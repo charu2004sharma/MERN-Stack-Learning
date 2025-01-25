@@ -33,13 +33,6 @@
 3. *Time-To-Live (TTL):*  
    - Specifies how long a DNS record is cached before it expires.  
 
-*Hands-On Practice*  
-- Used nslookup to check DNS queries and responses.  
-- Verified cached DNS records on my system using:  
-  - Windows: ipconfig /displaydns  
-  - Linux/Mac: dig or scutil --dns  
-- Observed how clearing DNS cache (ipconfig /flushdns) forces new queries.  
-
 *Reflection*  
 - Understanding recursive and iterative DNS queries helped clarify how domain names are resolved.  
 - Observing DNS caching at different levels made the concept more practical.  
