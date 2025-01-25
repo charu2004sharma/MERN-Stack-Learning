@@ -28,6 +28,3 @@
 | URL Prefix      | http://       | https://          |
 | Security Level  | Low           | High              |
 
-*Resources*
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
-https://www.geeksforgeeks.org/difference-between-http-and-https/
