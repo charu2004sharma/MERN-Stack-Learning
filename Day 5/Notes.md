@@ -37,13 +37,7 @@
 3. *Benefits of HTTPS:*  
    - Protects sensitive information like passwords and credit card details.  
    - Boosts user trust (indicated by a padlock icon in the browser).  
-   - Improves SEO rankings.  
-
-*Hands-On Practice*  
-- Used Chrome DevTools to analyze requests and responses:  
-  - Observed request headers, methods, and response status codes.  
-  - Checked SSL certificates for HTTPS connections in the *Security* tab.  
-- Compared HTTP and HTTPS behavior for websites, noting differences in security.  
+   - Improves SEO rankings.   
 
 *Reflection*  
 - Learned how browsers and servers communicate via the request-response cycle.  
