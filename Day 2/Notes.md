@@ -26,5 +26,4 @@
 
 *Reflection*
 - DNS concepts clarified how domains connect to servers.
-- Learned the practical steps to implement HTTPS on a website.
 - Understanding SSL certificates and DNS records was challenging at first but became clearer with examples.
