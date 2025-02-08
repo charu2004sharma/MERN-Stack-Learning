@@ -20,7 +20,7 @@ JavaScript Event Handling
    
 2. Inline Event Handling (Not Recommended):
 
-<button onclick="console.log('Clicked!')">Click Me</button>
+// <button onclick="console.log('Clicked!')">Click Me</button>
 
 3. Removing an event handler
 
