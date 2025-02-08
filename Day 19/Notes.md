@@ -1,4 +1,4 @@
-# Day 17: CSS Basics  
+# CSS Basics  
 
 ## *What I Learned*  
 
