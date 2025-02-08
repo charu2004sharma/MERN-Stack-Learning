@@ -24,9 +24,9 @@ JavaScript Event Handling
 
 3. Removing an event handler
 
-```let btn = document.getElementById("alertBtn");
+let btn = document.getElementById("alertBtn");
 btn.addEventListener("click", showAlert);
-btn.removeEventListener("click", showAlert);```
+btn.removeEventListener("click", showAlert);
 
 Reflection
 	•	Events allow dynamic user interaction with web pages.
