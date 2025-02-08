@@ -13,21 +13,16 @@ JavaScript Event Handling
 
 *2. Handling Events with JavaScript*  
 1. **Using addEventListener() (Recommended):**  
-   ```javascript
+
    document.getElementById("myButton").addEventListener("click", function() {
        console.log("Button Clicked!");
    });
-
-	2.	Inline Event Handling (Not Recommended):
+   
+2. Inline Event Handling (Not Recommended):
 
 <button onclick="console.log('Clicked!')">Click Me</button>
 
-
-	3.	Removing an Event Listener:
-
-function showAlert() {
-    alert("Hello!");
-}
+3. Removing an event handler
 
 let btn = document.getElementById("alertBtn");
 btn.addEventListener("click", showAlert);
